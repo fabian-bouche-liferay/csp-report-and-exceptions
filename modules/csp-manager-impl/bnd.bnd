@@ -1,0 +1,3 @@
+Bundle-Name: csp-manager-impl
+Bundle-SymbolicName: com.liferay.samples.fbo.csp.manager.impl
+Bundle-Version: 1.0.0

@@ -1,0 +1,10 @@
+Bundle-Name: csp-manager-api
+Bundle-SymbolicName: com.liferay.samples.fbo.csp.manager.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.liferay.samples.fbo.csp.manager.exception,\
+	com.liferay.samples.fbo.csp.manager.model,\
+	com.liferay.samples.fbo.csp.manager.service,\
+	com.liferay.samples.fbo.csp.manager.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../csp-manager-service/service.xml
